@@ -1,3 +1,5 @@
+#pragma once
+
 #include "PlayerOptions.h"
 #include "Room.h"
 #include "Option.h"
